@@ -1,0 +1,1 @@
+***Added - Contents*** This is the entirety of the DBC files used on the World of Warcraft private server, Ascension. The term Awakening is the predecessor of Ascension. The last date of this repository is June 6th, 2017.
